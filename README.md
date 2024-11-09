@@ -1,4 +1,5 @@
 Blue Sphere Live by BaconOmelette
+-
 www.baconomelette.com
 
 Blue Sphere Live is a script that runs on BizHawk that creates a pop up window displaying a live feed of the level layout.
