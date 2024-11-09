@@ -1,3 +1,6 @@
+Blue Sphere Live by BaconOmelette
+www.baconomelette.com
+
 Blue Sphere Live is a script that runs on BizHawk that creates a pop up window displaying a live feed of the level layout.
 It works on Sonic & Knuckles, Sonic 3 & Knuckles, Sonic 1 & Knuckles and the hack called Blue Sphere Plus (https://info.sonicretro.org/Blue_Sphere_Plus)
 
